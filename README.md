@@ -18,8 +18,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Solution URL: https://www.frontendmentor.io/solutions/qr-code-challenge-using-html5-and-css3-i-MK-ucsus
 - Live Site URL: https://pbeasley82-qrcode.netlify.app/
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
